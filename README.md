@@ -55,7 +55,7 @@ src/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/react-pagination-debounce-demo.git
+   git clonehttps://github.com/MeronTeweldebrhan/Custom-hooks-lab-2
    cd react-pagination-debounce-demo
 
     - npm install
